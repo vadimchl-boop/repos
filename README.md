@@ -1,1 +1,2 @@
-# repos
+mkdir repos
+cd repos/
